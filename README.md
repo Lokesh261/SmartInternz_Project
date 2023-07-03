@@ -1,1 +1,3 @@
-# SmartInternz_Project
+# SmartInternz Project
+
+Code and Documentation for the SmartInternz project
